@@ -1,0 +1,1 @@
+aws dynamodb put-item --table-name LotteryNumbers --item '{"lottery_number": {"S": "870"}, "name": {"S": "Doug"}}'
